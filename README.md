@@ -2,7 +2,8 @@
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-<p align="left"> <a href="https://twitter.com/CookyDev" target="blank"><img src="https://img.shields.io/twitter/follow/CookyDev?logo=twitter&style=for-the-badge" alt="CookyDev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CookyDev" target="blank"><img src="https://img.shields.io/twitter/follow/CookyDev?logo=twitter&style=for-the-badge" alt="CookyDev" /></a>
+
 · 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
 
 · 🔰 I’m currently learning **Python, little JavaScript and TypeScript (Principiant)**
