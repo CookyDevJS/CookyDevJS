@@ -1,4 +1,4 @@
-#<h1 align="center">Hello, I'm Cooky</h1>
+<h1 align="center">Hello, I'm Cooky</h1>
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
 · 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
