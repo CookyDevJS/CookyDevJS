@@ -8,7 +8,7 @@
 
 · 🔰 I’m currently learning **Python, little JavaScript and TypeScript (Principiant)**
 
-· 💻 Sometimes I like to program and develop **Discord Bot**
+· 💻 Sometimes I like to program and developer **Discord Bot**
 
 · 📝 Discord [ADC Team](https://discord.gg/CnRNkQkZC5)
 
