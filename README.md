@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/CookyDev" target="blank"><img src="https://img.shields.io/twitter/follow/CookyDev?logo=twitter&style=for-the-badge" alt="CookyDev" /></a> </p>
 · 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
 
-· 🔰 I’m currently learning **Python, little JavaScript and TypeScript**
+· 🔰 I’m currently learning **Python, little JavaScript and TypeScript (Principiant)**
 
 · 💻 Sometimes I like to program and develop **Discord Bot**
 
