@@ -5,13 +5,13 @@
 <p align="left"> <a href="https://twitter.com/CookyDev" target="blank"><img src="https://img.shields.io/twitter/follow/CookyDev?logo=twitter&style=for-the-badge" alt="CookyDev" /></a> </p>
 · 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
 
-· 🔰I’m currently learning **Python, and little JavaScript**
+· 🔰 I’m currently learning **Python, and little JavaScript**
 
-· 💻Sometimes I like to program and develop **Discord Bot**
+· 💻 Sometimes I like to program and develop **Discord Bot**
 
 · 📝 Discord [ADC Team](https://discord.gg/CnRNkQkZC5)
 
-· 🧠I would like to learn **C++, C+...**
+· 🧠 I would like to learn **C++, C+...**
 
 · 📫 My Discord ID **! Cooky.#2312**
 
