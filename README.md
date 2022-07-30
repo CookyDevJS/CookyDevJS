@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdeivid553&theme=dark" alt="CookyDevJS" /></p>
 
-![](https://komarev.com/ghpvc/?username=darkdeivid553&color=blueviolet)
+
