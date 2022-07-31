@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdeivid553&theme=dark" alt="CookyDevJS" /></p>
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/528860743437910016)](https://discord.com/users/528860743437910016)
