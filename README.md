@@ -6,7 +6,7 @@
 
 · 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team) and [ChatAI](https://github.com/ChatAI-bot)
 
-· 🔰 I’m currently learning **Python, little JavaScript and TypeScript (Principiant)**
+· 🔰 I’m currently learning **JavaScript and TypeScript (Principiant)**
 
 · 💻 Sometimes I like to program and developer **Discord Bot**
 
