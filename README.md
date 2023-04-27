@@ -12,9 +12,9 @@
 
 · 📝 Discord [ADC Team](https://discord.gg/CnRNkQkZC5) - [ChatAI](https://discord.gg/dfZaHBwptB)
 
-· 🧠 I would like to learn **C++, C+...**
+· 🧠 I would like to learn **C++, C+... and Java**
 
-· 📫 My Discord ID **! Cooky.#2312**
+· 📫 My Discord TAG **! Cooky.#2312**
 
 <h3 align="">Connect with me:</h3>
 <p align="left">
