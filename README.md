@@ -10,7 +10,7 @@
 
 · 💻 Sometimes I like to program and developer **Discord Bot**
 
-· 📝 Discord [ADC Team](https://discord.gg/CnRNkQkZC5)
+· 📝 Discord [ADC Team](https://discord.gg/CnRNkQkZC5) - [ChatAI](https://discord.gg/dfZaHBwptB)
 
 · 🧠 I would like to learn **C++, C+...**
 
