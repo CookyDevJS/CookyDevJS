@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/CookyDev" target="blank"><img src="https://img.shields.io/twitter/follow/CookyDev?logo=twitter&style=for-the-badge" alt="CookyDev" /></a>
 
-· 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team) **/** [ChatAI](https://github.com/ChatAI-bot) **/** [BlueDevelopent](https://github.com/BlueDevelopmentt)
+· 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team) **-** [ChatAI](https://github.com/ChatAI-bot) **-** [BlueDevelopent](https://github.com/BlueDevelopmentt)
 
 · 🔰 I’m currently learning **JavaScript and TypeScript (Principiant)**
 
