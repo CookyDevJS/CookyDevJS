@@ -4,7 +4,7 @@
 
 
 
-· 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team) **-** [ChatAI](https://github.com/ChatAI-bot) **-** [BlueDevelopent](https://github.com/BlueDevelopmentt)
+· 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team) **-** [ChatAI](https://github.com/ChatAI-bot)
 
 · 🔰 I’m currently learning **JavaScript and TypeScript (Principiant)**
 
@@ -14,11 +14,10 @@
 
 · 🧠 I would like to learn **C++**, **C+...** and **Java**
 
-· 📫 My Discord TAG **! Cooky.#2312**
+· 📫 My Discord ID **srcooky**
 
 <h3 align="">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/Sr Cooky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fran_afp_" height="30" width="40" /></a>
 <a href="https://discord.gg/CnRNkQkZC5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vCGcPjVC" height="30" width="40" /></a>
 <a href="https://twitter.com/CookyDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vCGcPjVC" height="30" width="40" /></a>
 
