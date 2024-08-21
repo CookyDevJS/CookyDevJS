@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://github.com/CookyDevJS" target="blank"><img src="https://skillicons.dev/icons?i=debian,cloudflare,css,discord,discordjs,github,html,js,nodejs,npm,vscode,windows,gmail,idea,java,linux,mongodb,twitter&perline=18" width="75%"></a>
+<a href="https://github.com/CookyDevJS" target="blank"><img src="https://skillicons.dev/icons?i=debian,cloudflare,css,discord,discordjs,github,html,js,nodejs,npm,vscode,windows,gmail,idea,java,linux,mongodb,twitter,bun&perline=18" width="75%"></a>
 
 <h3 align="left">GitHub Stats:</h3>
 
