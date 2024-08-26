@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@CookyDJ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@CookyDJ"  /></a>
 <a href="https://www.tiktok.com/@sergiocm2009" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@sergiocm2009" /></a>
-
+<p align="center"><img src="https://raw.githubusercontent.com/CookyDevJS/CookyDevJS/output/snake.svg" alt="Snake animation" /></p>
 <h2>About me 😃</h2>
 
 <p align="left">
@@ -55,7 +55,3 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=CookydevJS&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-
-<h3 align="left">Commit Snake:</h3>
-<p align="center"><img src="https://raw.githubusercontent.com/CookyDevJS/CookyDevJS/output/snake.svg" alt="Snake animation" /></p>
-
