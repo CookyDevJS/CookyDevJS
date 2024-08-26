@@ -56,10 +56,6 @@
     </a>
 </div>
 
-###
+![Snake animation](https://github.com/CookyDevJS/CookyDevJS/blob/output/github-contribution-grid-snake.svg)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/CookyDevJS/CookyDevJS/output/snake.svg" alt="Snake animation" />
-
-###
