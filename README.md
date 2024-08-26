@@ -56,6 +56,6 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/CookyDevJS/CookyDevJS/blob/output/github-contribution-grid-snake.svg)
-
+<h3 align="left">Commit Snake:</h3>
+<p align="center"><img src="https://raw.githubusercontent.com/CookyDevJS/CookyDevJS/output/snake.svg" alt="Snake animation" /></p>
 
