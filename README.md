@@ -7,7 +7,7 @@
 <h2>About me 😃</h2>
 
 <p align="left">
-· 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team) **-** [ChatAI](https://github.com/ChatAI-bot)
+· 🔭 I’m currently working on ADC Team - ChatAI
 
 · 🔰 I’m currently learning **JavaScript and TypeScript (Principiant)**
 
