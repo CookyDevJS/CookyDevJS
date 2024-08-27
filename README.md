@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://github.com/CookyDevJS">
-    <img src="https://skillicons.dev/icons?i=androidstudio,debian,cloudflare,css,discord,discordjs,github,html,js,nodejs,npm,vscode,windows,gmail,idea,java,linux,mongodb,twitter,bun,docker,typescript,discordbots,vercel,git,reactjs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=debian,cloudflare,css,discord,discordjs,github,html,js,nodejs,npm,vscode,windows,gmail,idea,java,linux,mongodb,twitter,bun,docker,typescript,discordbots,vercel,git,reactjs&perline=12" />
   </a>
 </p>
 <br>
