@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Cooky ✨ </h1> 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=CookyDevJS alt=rahuldkjain/> </p>
 <p align="center">
   <a href="https://www.youtube.com/@CookyDJ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@CookyDJ"  /></a>
 <a href="https://www.tiktok.com/@sergiocm2009" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@sergiocm2009" /></a>
