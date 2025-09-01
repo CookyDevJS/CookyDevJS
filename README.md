@@ -23,7 +23,7 @@ Actualmente trabajo en **ADC Team - ChatAI**, un proyecto para mejorar la intera
 - [ADC Team](https://discord.gg/CnRNkQkZC5)  
 - [ChatAI](https://discord.gg/dfZaHBwptB)  
 
-📧 **Email:** [cookymail@cookydev.es](mailto:cookymail@cookydev.es)  
+📧 **Email:** [cookymail@devcooky.es](mailto:cookymail@cookydev.es)  
 
 ---
 
