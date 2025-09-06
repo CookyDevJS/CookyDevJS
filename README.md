@@ -48,7 +48,13 @@ Actualmente trabajo en **ADC Team - ChatAI**, un proyecto para mejorar la intera
 </p>
 
 ---
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/528860743437910016" alt="Discord Present"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CookyDevJS&color=blue&style=flat-square" alt="Profile views"/>
 </p>
+
