@@ -48,6 +48,7 @@ Actualmente trabajo en **ADC Team - ChatAI**, un proyecto para mejorar la intera
 </p>
 
 ---
+## 💻 Discord Status
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/528860743437910016" alt="Discord Present"/>
 </p>
