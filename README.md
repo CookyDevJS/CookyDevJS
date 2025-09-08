@@ -29,7 +29,7 @@ Actualmente trabajo en **ADC Team - ChatAI**, un proyecto para mejorar la intera
 
 ## 🛠️ Tecnologías que uso
 
-![HTML](https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,bun,docker,mongodb,git,github,heroku,debian,cloudflare,vercel,vscode,idea,linux,windows,npm,ubuntu,notion,react,raspberrypi,tailwind,prisma,java,idea,)
+![HTML](https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,bun,docker,mongodb,git,github,heroku,debian,cloudflare,vercel,vscode,idea,linux,windows,npm,ubuntu,notion,react,raspberrypi,tailwind,prisma,java,idea)
 
 ---
 
